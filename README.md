@@ -1,2 +1,2 @@
 # My-site
-Django personal site
+Django personal website
